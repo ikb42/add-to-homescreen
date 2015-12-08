@@ -13,7 +13,7 @@ Add `addtohomescreen.css` and `addtohomescreen.js` to the head of your projects 
 <link rel="stylesheet" type="text/css" href="../../style/addtohomescreen.css">
 <script src="../../src/addtohomescreen.js"></script>
 <script>
-addToHomescreen();
+addToHomescreen({});
 </script>
 </head>
 ```
